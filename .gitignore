@@ -53,6 +53,7 @@ rsconnect/
 *.docx
 *.html
 *.pdf
+!www/minutes_styles.docx
 
 # Directories and links
 .Rproj.user

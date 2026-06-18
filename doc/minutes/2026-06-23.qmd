@@ -1,0 +1,199 @@
+---
+title:  "[PID Jamovi]: Revisión del backlog"
+date:   "2026-06-23"
+format:
+  docx:
+    reference-doc: ../../www/minutes_styles.docx
+gfm: default
+---
+
+**Horario:** 15:30 GMT+2 - 16:30 GMT+2
+
+**Lugar:** Online: <https://teams.microsoft.com/meet/354653465339313?p=NKqTFdO60oS1lMtUpj>
+
+**Asistentes:**
+
+- Belén Fernández Castilla ([bfcastilla\@psi.uned.es](mailto:bfcastilla@psi.uned.es){.email}) \[BFC\]
+- José Ángel Martínez Huertas ([jamartinez\@psi.uned.es](mailto:jamartinez@psi.uned.es){.email}) \[JMH\]
+- Alejandro Martínez Mingo ([a.martinez.m\@psi.uned.es](mailto:a.martinez.m@psi.uned.es){.email}) \[AMM\]
+- Daniel Morillo ([dvmorillo\@psi.uned.es](mailto:dvmorillo@psi.uned.es){.email}) \[DMC\]
+- Pilar Pozo Cabanillas ([ppozo\@psi.uned.es](mailto:ppozo@psi.uned.es){.email}) \[PPC\]
+- Celia Serrano Montilla ([cserrano\@psi.uned.es](mailto:cserrano@psi.uned.es){.email}) \[CSM\]
+
+**Transcriptor:** DMC
+
+# Puntos del orden del día
+
+## Revisión y aprobación del acta del 2026-06-02
+
+### Debate
+
+- 
+
+### Acuerdos
+
+- **Aprobado**: Aprobar acta
+
+## Revisión de hitos del proyecto
+
+### Debate
+
+- Propuesta inicial de hitos:
+
+  - **Inicio de actividad:** 2026-11-02
+
+  - **Cierre de actividad:** 2027-01-28
+
+  - **Cierre de calificaciones:** 2027-02-27
+
+### Acuerdos
+
+- **Aprobado**:
+
+- **Pospuesto**:
+
+### Tareas
+
+- **DMC**: \[ASAP\]
+
+- **BFC y PPC**: \[2026-09-30\]
+
+- **BFC**, **JMH**: \[ASAP\]
+
+## Asignación inicial de tareas en la propuesta del PID
+
+### Debate
+
+- Necesario asignar tareas de hito "Inicio de actividad"
+
+- "Revisión y actualización de instrucciones de despliegue" requiere dominio básico de GitHub, {renv} y varias versiones de R
+
+### Acuerdos
+
+- **Aprobado**:
+
+- **Pospuesto**:
+
+### Tareas
+
+- **DMC**: \[ASAP\]
+
+- **BFC y PPC**: \[2026-09-30\]
+
+- **BFC**, **JMH**: \[ASAP\]
+
+## Priorización y selección de tareas en el backlog
+
+### Debate
+
+- Necesario determinar tareas de backlog a completar, hito, y prioridad
+
+- [Migración a Connect Cloud](https://github.com/DaniMori/pid-pec-iad/issues/19) necesaria
+
+- Connect Cloud [soporta hasta R 4.6.0](https://docs.posit.co/connect-cloud/user/platform/r.html#version), interesa acualizar lo más posible
+
+### Acuerdos
+
+- **Aprobado**:
+
+- **Pospuesto**:
+
+### Tareas
+
+- **DMC**: \[ASAP\]
+
+- **BFC y PPC**: \[2026-09-30\]
+
+- **BFC**, **JMH**: \[ASAP\]
+
+## Asignación de tareas en el backlog
+
+### Debate
+
+- Tareas requieren dominio básico de GitHub, {renv} y varias versiones de R
+
+### Acuerdos
+
+- **Aprobado**:
+
+- **Pospuesto**:
+
+### Tareas
+
+- **DMC**: \[ASAP\]
+
+- **BFC y PPC**: \[2026-09-30\]
+
+- **BFC**, **JMH**: \[ASAP\]
+
+## Gestión del PID y comunicación
+
+### Debate
+
+- Uso de Teams y reestructuración de equipo
+
+- Instrucciones y comunicación todo en español (es)?
+
+### Acuerdos
+
+- **Aprobado**:
+
+- **Pospuesto**:
+
+### Tareas
+
+- **DMC**: \[ASAP\]
+
+- **BFC y PPC**: \[2026-09-30\]
+
+- **BFC**, **JMH**: \[ASAP\]
+
+# Sugerencias y preguntas
+
+## 
+
+### Debate
+
+- 
+
+### Acuerdos
+
+- **Aprobado**:
+
+- **Pospuesto**:
+
+### Tareas
+
+- **DMC**: \[ASAP\]
+
+- **BFC y PPC**: \[2026-09-30\]
+
+- **BFC**, **JMH**: \[ASAP\]
+
+# Próxima reunión
+
+- **Objetivo**: Revisión backlog PID Jamovi.
+
+- **Fecha**: 2026-06-23
+
+- **Horario**: 15:30 - 16:30 CEST
+
+# **Resumen de tareas:**
+
+## BFC
+
+- (con **PPC**) \[2026-09-30\]
+
+- (con **JMH**) \[ASAP\]
+
+## DMC
+
+- \[ASAP\]
+
+## JMH
+
+- (con **BFC**) \[ASAP\]
+
+## PPC
+
+- (con **BFC**) \[2026-09-30\]

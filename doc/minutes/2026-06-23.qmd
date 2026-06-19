@@ -9,7 +9,7 @@ gfm: default
 
 **Horario:** 15:30 GMT+2 - 16:30 GMT+2
 
-**Lugar:** Online: <https://teams.microsoft.com/meet/354653465339313?p=NKqTFdO60oS1lMtUpj>
+**Lugar:** Sala 2.09 <https://teams.microsoft.com/meet/354653465339313?p=NKqTFdO60oS1lMtUpj>
 
 **Asistentes:**
 

@@ -48,9 +48,11 @@ gfm: default
 
 ### Acuerdos
 
-- **Aprobado**:
+- **Aprobado**: Lanzamento 2026-10-29
 
-- **Pospuesto**:
+- **Aprobado**: Cierre 2027-01-22
+
+- **Aprobado**: Cierre calificaciones 2027-02-23
 
 ### Tareas
 

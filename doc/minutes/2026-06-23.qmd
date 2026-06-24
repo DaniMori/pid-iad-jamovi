@@ -26,159 +26,113 @@ gfm: default
 
 ## Revisión y aprobación del acta del 2026-06-02
 
-### Debate
-
-- 
-
 ### Acuerdos
 
 - **Aprobado**: Aprobar acta
 
 ## Revisión de hitos del proyecto
 
-### Debate
-
-- Propuesta inicial de hitos:
-
-  - **Inicio de actividad:** 2026-11-02
-
-  - **Cierre de actividad:** 2027-01-28
-
-  - **Cierre de calificaciones:** 2027-02-27
-
 ### Acuerdos
 
-- **Aprobado**: Lanzamento 2026-10-29
+- **Aprobado**: Lanzamiento de la actividad: 2026-10-29
 
-- **Aprobado**: Cierre 2027-01-22
+- **Aprobado**: Cierre de la actividad: 2027-01-22
 
-- **Aprobado**: Cierre calificaciones 2027-02-23
-
-### Tareas
-
-- **DMC**: \[ASAP\]
-
-- **BFC y PPC**: \[2026-09-30\]
-
-- **BFC**, **JMH**: \[ASAP\]
+- **Aprobado**: Cierre de calificaciones: 2027-02-23
 
 ## Asignación inicial de tareas en la propuesta del PID
 
 ### Debate
 
-- Necesario asignar tareas de hito "Inicio de actividad"
+- Al contar para nota, podemos hacer más de 10 preguntas en la PEC
 
-- "Revisión y actualización de instrucciones de despliegue" requiere dominio básico de GitHub, {renv} y varias versiones de R
+- Todos los procedimientos a realizar con Jamovi deben tener demostración en vídeos
 
-### Acuerdos
+- La actividad de tipo "encuesta" en Ágora puede responderse en más de una sesión
 
-- **Aprobado**:
-
-- **Pospuesto**:
+- Matriz de actividades debe incluir: ítems, análisis estadístico (contenido), materiales auxiliares, y temas
 
 ### Tareas
 
-- **DMC**: \[ASAP\]
+- **DMC**: Hacer planificación de tareas para el equipo \[ASAP\]
 
-- **BFC y PPC**: \[2026-09-30\]
+- **BFC**: Elaborar lista de contenidos a evaluar \[ND\]
 
-- **BFC**, **JMH**: \[ASAP\]
+- **ALL**: Revisar lista de contenidos a evaluar \[ND\]
+
+- **JMH**: Elaborar matriz de actividades \[ND\]
+
+- **ALL**: Revisar matriz de actividades \[ND\]
+
+- **DMC**: Implementar código de simulación y corrección \[ND\]
+
+- **AMM**, **CSM**: Revisar código de simulación y corrección \[ND\]
 
 ## Priorización y selección de tareas en el backlog
 
 ### Debate
 
-- Necesario determinar tareas de backlog a completar, hito, y prioridad
-
-- [Migración a Connect Cloud](https://github.com/DaniMori/pid-pec-iad/issues/19) necesaria
-
-- Connect Cloud [soporta hasta R 4.6.0](https://docs.posit.co/connect-cloud/user/platform/r.html#version), interesa acualizar lo más posible
+- Se debate la eliminación de la dependencia del archivo CSV con los correos del profesorado para facilitar el uso del sistema por parte de terceros
 
 ### Acuerdos
 
-- **Aprobado**:
+- **Aprobado**: Prioizar tareas asignadas a hito "Lanzamiento".
 
-- **Pospuesto**:
-
-### Tareas
-
-- **DMC**: \[ASAP\]
-
-- **BFC y PPC**: \[2026-09-30\]
-
-- **BFC**, **JMH**: \[ASAP\]
+- **Aprobado**: Eliminar la dependencia de los correos del profesorado en el código.
 
 ## Asignación de tareas en el backlog
 
 ### Debate
 
-- Tareas requieren dominio básico de GitHub, {renv} y varias versiones de R
+- Se requiere dominio de GitHub, {renv} y versiones de R (se utilizará R 4.6.0).
+
+- Se acuerda documentar en un Notebook las instrucciones para la creación de encuestas en Ágora.
 
 ### Acuerdos
 
-- **Aprobado**:
-
-- **Pospuesto**:
+- **Aprobado**: BFC documentará la creación de encuestas en Ágora (incluyendo capturas de pantalla y configuración de campos numéricos).
 
 ### Tareas
 
-- **DMC**: \[ASAP\]
+- **DMC**: Hacer migración a Connect Cloud \[ND\]
 
-- **BFC y PPC**: \[2026-09-30\]
+- **BFC**: Documentar creación de encuestas en Ágora \[ND\]
 
-- **BFC**, **JMH**: \[ASAP\]
+- **DMC**, **AMM**, y **CSM**: Deslegar apps en Connect Cloud \[ND\]
 
 ## Gestión del PID y comunicación
 
 ### Debate
 
-- Uso de Teams y reestructuración de equipo
-
-- Instrucciones y comunicación todo en español (es)?
+- Tener el repositorio de GitHub público puede dar problemas de seguridad.
 
 ### Acuerdos
 
-- **Aprobado**:
+- **Aprobado**: Usar Teams como canal principal de comunicación para el PID.
 
-- **Pospuesto**:
+- **Aprobado**: Reestructurar el equipo de Teams en canal principal de IAD y un canal por PID.
 
-### Tareas
+- **Aprobado**: Centralizar documentación en subcarpeta "Documentación" en carpeta compartida de IAD.
 
-- **DMC**: \[ASAP\]
+- **Aprobado**: Mantener repositorio GitHub privado.
 
-- **BFC y PPC**: \[2026-09-30\]
+- **Rechazado**: Adoptar castellano para comunicaciones en GitHub.
 
-- **BFC**, **JMH**: \[ASAP\]
-
-# Sugerencias y preguntas
-
-## 
-
-### Debate
-
-- 
-
-### Acuerdos
-
-- **Aprobado**:
-
-- **Pospuesto**:
+- **Aprobado**: Traducir instrucciones y documentación de usuario al castellano.
 
 ### Tareas
 
-- **DMC**: \[ASAP\]
+- **DMC**: Reestructurar equipo de Teams \[ASAP\]
 
-- **BFC y PPC**: \[2026-09-30\]
-
-- **BFC**, **JMH**: \[ASAP\]
+- **DMC**: Crear carpeta "Documentación" \[ASAP\]
 
 # Próxima reunión
 
-- **Objetivo**: Revisión backlog PID Jamovi.
+- **Objetivo**: Por determinar.
 
-- **Fecha**: 2026-06-23
+- **Fecha**: Por determinar.
 
-- **Horario**: 15:30 - 16:30 CEST
+- **Horario**: Por determinar.
 
 # **Resumen de tareas:**
 
@@ -199,3 +153,16 @@ gfm: default
 ## PPC
 
 - (con **BFC**) \[2026-09-30\]
+
+# **Resumen de tareas:**
+
+## BFC
+
+- \[ASAP\] Elaborar lista de contenidos evaluables.
+- \[A lo largo del curso\] Documentar creación de encuestas en Ágora.
+
+## DMC
+
+- \[ASAP\] Ajustar calendario de hitos.
+- \[ASAP\] Reestructurar equipo de Teams.
+- \[ASAP\] Liderar migración a Connect Cloud.

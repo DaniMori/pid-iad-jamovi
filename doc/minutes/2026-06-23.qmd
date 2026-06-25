@@ -137,3 +137,43 @@ gfm: default
 - **Horario**: Por determinar.
 
 # **Resumen de tareas:**
+
+## BFC
+
+- Elaborar lista de contenidos a evaluar \[ND\]
+
+- Documentar creación de encuestas en Ágora \[ND\]
+
+## JMH
+
+- Elaborar tabla de actividades \[ND\]
+
+## AMM
+
+- (con **CSM**) Revisar código de simulación y corrección \[ND\]
+
+- (con **CSM**) Desplegar apps en Connect Cloud \[ND\]
+
+## DMC
+
+- Hacer planificación de tareas para el equipo \[ASAP\]
+
+- Implementar código de simulación y corrección \[ND\]
+
+- Hacer migración a Connect Cloud \[ND\]
+
+- Reestructurar equipo de Teams \[ASAP\]
+
+- Crear carpeta "Documentación" \[ASAP\]
+
+## CSM
+
+- (con **AMM**) Revisar código de simulación y corrección \[ND\]
+
+- (con **AMM**) Desplegar apps en Connect Cloud \[ND\]
+
+## ALL
+
+- Revisar lista de contenidos a evaluar \[ND\]
+
+- Revisar tabla de actividades \[ND\]

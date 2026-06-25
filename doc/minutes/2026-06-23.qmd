@@ -32,6 +32,10 @@ gfm: default
 
 ## Revisión de hitos del proyecto
 
+### Debate
+
+- La fecha de lanzamiento puede tener cierta flexibilidad (mientras no se anuncie a estudiantes y profesorado tutor)
+
 ### Acuerdos
 
 - **Aprobado**: Lanzamiento de la actividad: 2026-10-29
@@ -39,6 +43,8 @@ gfm: default
 - **Aprobado**: Cierre de la actividad: 2027-01-22
 
 - **Aprobado**: Cierre de calificaciones: 2027-02-23
+
+- **Aprobado**: Posponer anuncio de PEC lo necesario para poder retrasar lanzamiento si hace falta
 
 ## Asignación inicial de tareas en la propuesta del PID
 
@@ -50,7 +56,7 @@ gfm: default
 
 - La actividad de tipo "encuesta" en Ágora puede responderse en más de una sesión
 
-- Matriz de actividades debe incluir: ítems, análisis estadístico (contenido), materiales auxiliares, y temas
+- Tabla de actividades debería incluir: ítems, análisis estadístico (contenido), especificaciones simulación (variables, propiedades simuladas), materiales auxiliares, y temas
 
 ### Tareas
 
@@ -60,9 +66,9 @@ gfm: default
 
 - **ALL**: Revisar lista de contenidos a evaluar \[ND\]
 
-- **JMH**: Elaborar matriz de actividades \[ND\]
+- **JMH**: Elaborar tabla de actividades \[ND\]
 
-- **ALL**: Revisar matriz de actividades \[ND\]
+- **ALL**: Revisar tabla de actividades \[ND\]
 
 - **DMC**: Implementar código de simulación y corrección \[ND\]
 
@@ -72,25 +78,23 @@ gfm: default
 
 ### Debate
 
-- Se debate la eliminación de la dependencia del archivo CSV con los correos del profesorado para facilitar el uso del sistema por parte de terceros
+- Eliminar la dependencia del CSV con los correos del profesorado facilitaría el uso por terceros
 
 ### Acuerdos
 
-- **Aprobado**: Prioizar tareas asignadas a hito "Lanzamiento".
+- **Aprobado**: Priorizar tareas asignadas a hito "Lanzamiento"
 
-- **Aprobado**: Eliminar la dependencia de los correos del profesorado en el código.
+- **Aprobado**: Eliminar dependencia del CSV con los correos del profesorado
+
+- **Aprobado**: Traducir instrucciones y documentación de usuario al castellano
 
 ## Asignación de tareas en el backlog
 
 ### Debate
 
-- Se requiere dominio de GitHub, {renv} y versiones de R (se utilizará R 4.6.0).
+- Se requiere cierto dominio de GitHub y {renv}, y cambiar entre versiones de R (se puede actualizar a 4.6.0)
 
-- Se acuerda documentar en un Notebook las instrucciones para la creación de encuestas en Ágora.
-
-### Acuerdos
-
-- **Aprobado**: BFC documentará la creación de encuestas en Ágora (incluyendo capturas de pantalla y configuración de campos numéricos).
+- Cese del mantenimiento de Shinyapps.io en 2026 hace necesario migrar despliegue a Connect Cloud
 
 ### Tareas
 
@@ -98,7 +102,7 @@ gfm: default
 
 - **BFC**: Documentar creación de encuestas en Ágora \[ND\]
 
-- **DMC**, **AMM**, y **CSM**: Deslegar apps en Connect Cloud \[ND\]
+- **AMM**, y **CSM**: Desplegar apps en Connect Cloud \[ND\]
 
 ## Gestión del PID y comunicación
 
@@ -108,17 +112,15 @@ gfm: default
 
 ### Acuerdos
 
-- **Aprobado**: Usar Teams como canal principal de comunicación para el PID.
+- **Aprobado**: Usar Teams como canal principal de comunicación, email para comunicados.
 
 - **Aprobado**: Reestructurar el equipo de Teams en canal principal de IAD y un canal por PID.
 
 - **Aprobado**: Centralizar documentación en subcarpeta "Documentación" en carpeta compartida de IAD.
 
-- **Aprobado**: Mantener repositorio GitHub privado.
+- **Pospuesto**: Decidir visibilidad (pública/privada) del repositorio en GitHub.
 
 - **Rechazado**: Adoptar castellano para comunicaciones en GitHub.
-
-- **Aprobado**: Traducir instrucciones y documentación de usuario al castellano.
 
 ### Tareas
 
@@ -135,34 +137,3 @@ gfm: default
 - **Horario**: Por determinar.
 
 # **Resumen de tareas:**
-
-## BFC
-
-- (con **PPC**) \[2026-09-30\]
-
-- (con **JMH**) \[ASAP\]
-
-## DMC
-
-- \[ASAP\]
-
-## JMH
-
-- (con **BFC**) \[ASAP\]
-
-## PPC
-
-- (con **BFC**) \[2026-09-30\]
-
-# **Resumen de tareas:**
-
-## BFC
-
-- \[ASAP\] Elaborar lista de contenidos evaluables.
-- \[A lo largo del curso\] Documentar creación de encuestas en Ágora.
-
-## DMC
-
-- \[ASAP\] Ajustar calendario de hitos.
-- \[ASAP\] Reestructurar equipo de Teams.
-- \[ASAP\] Liderar migración a Connect Cloud.

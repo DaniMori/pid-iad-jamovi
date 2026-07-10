@@ -1,0 +1,87 @@
+---
+title:  "[PID Jamovi]: Revisión planificación Lanzamiento"
+date:   "2026-07-xx" # TODO: Completar
+format:
+  docx:
+    reference-doc: ../../www/minutes_styles.docx
+gfm: default
+---
+
+**Horario:** <!-- TODO: Completar -->
+
+**Lugar:** Online: <https://teams.microsoft.com/meet/354653465339313?p=NKqTFdO60oS1lMtUpj> <!-- TODO: Revisar -->
+
+**Asistentes:**
+
+- Belén Fernández Castilla ([bfcastilla\@psi.uned.es](mailto:bfcastilla@psi.uned.es){.email}) \[BFC\]
+- José Ángel Martínez Huertas ([jamartinez\@psi.uned.es](mailto:jamartinez@psi.uned.es){.email}) \[JMH\]
+- Alejandro Martínez Mingo ([a.martinez.m\@psi.uned.es](mailto:a.martinez.m@psi.uned.es){.email}) \[AMM\]
+- Daniel Morillo ([dvmorillo\@psi.uned.es](mailto:dvmorillo@psi.uned.es){.email}) \[DMC\]
+- Pilar Pozo Cabanillas ([ppozo\@psi.uned.es](mailto:ppozo@psi.uned.es){.email}) \[PPC\]
+- Celia Serrano Montilla ([cserrano\@psi.uned.es](mailto:cserrano@psi.uned.es){.email}) \[CSM\]
+
+**Transcriptor:** DMC
+
+# Puntos del orden del día
+
+## Revisión y aprobación del acta del 2026-06-23
+
+### Acuerdos
+
+- **Aprobado**: Aprobar acta.
+
+- **Pospuesto**: .
+
+- **Rechazado**: .
+
+## Revisión y aprobación de la planificación del hito "Lanzamiento"
+
+### Debate
+
+- Necesario tener en cuenta semana de pruebas presenciales
+
+### Acuerdos
+
+- **Aprobado**:
+
+### Tareas
+
+- **DMC**: \[ASAP\]
+
+- **BFC**: \[ND\]
+
+- **ALL**: \[ND\]
+
+- **JMH**: \[ND\]
+
+- **ALL**: \[ND\]
+
+- **DMC**: \[ND\]
+
+- **AMM**, **CSM**: \[ND\]
+
+- **DMC**: \[ND\]
+
+# Sugerencias y preguntas
+
+# Próxima reunión
+
+- **Objetivo**: Por determinar.
+
+- **Fecha**: Por determinar.
+
+- **Horario**: Por determinar.
+
+# **Resumen de tareas:**
+
+## BFC
+
+## JMH
+
+## AMM
+
+## DMC
+
+## PPC
+
+## CSM

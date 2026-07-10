@@ -1,0 +1,52 @@
+---
+title:  "[PID Jamovi]: Revisión planificación Lanzamiento"
+date:   "2026-07-xx" # TODO: Completar
+format:
+  docx:
+    reference-doc: ../../www/minutes_styles.docx
+gfm: default
+---
+
+**Horario:** <!-- TODO: Completar -->
+
+**Lugar:** Online: <https://teams.microsoft.com/meet/354653465339313?p=NKqTFdO60oS1lMtUpj> <!-- TODO: Revisar -->
+
+**Objetivo:** Revisar y aprobar (si procede) la planificación de tareas del hito "Lanzamiento de la actividad".
+
+**Convocante:** Daniel Morillo Cuadrado [dvmorillo\@psi.uned.es](mailto:dvmorillo@psi.uned.es){.email} \[DMC\]
+
+**Personas convocadas:**
+
+- Belén Fernández Castilla [bfcastilla\@psi.uned.es](mailto:bfcastilla@psi.uned.es){.email} \[BFC\]
+- José Ángel Martínez Huertas [jamartinez\@psi.uned.es](mailto:jamartinez@psi.uned.es){.email} \[JMH\]
+- Alejandro Martínez Mingo ([a.martinez.m\@psi.uned.es](mailto:a.martinez.m@psi.uned.es){.email}) \[AMM\]
+- Pilar Pozo Cabanillas ([ppozo\@psi.uned.es](mailto:ppozo@psi.uned.es){.email}) \[PPC\]
+- Celia Serrano Montilla ([cserrano\@psi.uned.es](mailto:cserrano@psi.uned.es){.email}) \[CSM\]
+
+# Preparación previa
+
+- Revisar [acta del 2026-06-23](https://unedo365-my.sharepoint.com/:w:/r/personal/bfcastilla_psi_uned_es/Documents/2.%20Docencia/Comp_IAD/PIDs%20JAMOVI/PID%202026-27/Reuniones/2026-06-23.docx?d=w0e886747f5a24668bce477c1520e1f68&csf=1&web=1&e=cl5iVA)
+
+- Aceptar invitación al [repositorio de GitHub de la planificación](https://github.com/DaniMori/pid-iad-jamovi)
+
+- Revisar tareas propuestas para nuevo PID (pp. 9-10 y 13-14) en el [Anexo I a la solicitud del PID](https://unedo365-my.sharepoint.com/:b:/r/personal/bfcastilla_psi_uned_es/Documents/2.%20Docencia/Comp_IAD/PIDs%20JAMOVI/PID%202026-27/Solicitud/PID_2026-27_Jamovi_con_anexo.pdf?csf=1&web=1&e=cIeBZn)
+
+- Revisar [planificación propuesta para el hito "Lanzamiento"](https://github.com/users/DaniMori/projects/2/views/10)
+
+# Orden del día
+
+1.  Revisión y aprobación del acta del 2026-06-23 (5')
+
+2.  Revisión y aprobación de la planificación del hito "Lanzamiento" (20')
+
+3.  Sugerencias y preguntas (5')
+
+# Adjuntos y enlaces
+
+- [Acta del 2026-06-23](https://unedo365-my.sharepoint.com/:w:/r/personal/bfcastilla_psi_uned_es/Documents/2.%20Docencia/Comp_IAD/PIDs%20JAMOVI/PID%202026-27/Reuniones/2026-06-23.docx?d=w0e886747f5a24668bce477c1520e1f68&csf=1&web=1&e=cl5iVA)
+
+- [Anexo I a la solicitud del PID](https://unedo365-my.sharepoint.com/:b:/r/personal/bfcastilla_psi_uned_es/Documents/2.%20Docencia/Comp_IAD/PIDs%20JAMOVI/PID%202026-27/Solicitud/PID_2026-27_Jamovi_con_anexo.pdf?csf=1&web=1&e=cIeBZn)
+
+- [Repositorio de GitHub de la planificación](https://github.com/DaniMori/pid-iad-jamovi)
+
+- [Planificación para el hito "Lanzamiento"](https://github.com/users/DaniMori/projects/2/views/10)

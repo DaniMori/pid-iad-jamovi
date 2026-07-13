@@ -42,7 +42,11 @@ gfm: default
 
 ### Acuerdos
 
-- **Aprobado**:
+- **Aprobado**: Cambiar identificación de usuario por ID en lugar de email.
+
+- **Pospuesto**: .
+
+- **Rechazado**: .
 
 ### Tareas
 

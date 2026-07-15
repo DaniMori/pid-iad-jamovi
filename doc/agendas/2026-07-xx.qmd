@@ -1,17 +1,15 @@
 ---
 title:  "[PID Jamovi]: Revisión planificación Lanzamiento"
-date:   "2026-07-xx" # TODO: Completar
+date:   "2026-07-20"
 format:
   docx:
     reference-doc: ../../www/minutes_styles.docx
 gfm: default
 ---
 
-**Horario:** <!-- TODO: Completar -->
+**Horario:** 13:00 - 13:30 CEST
 
-**Lugar:** Online: <https://teams.microsoft.com/meet/354653465339313?p=NKqTFdO60oS1lMtUpj> <!-- TODO: Revisar -->
-
-**Objetivo:** Revisar y aprobar (si procede) la planificación de tareas del hito "Lanzamiento de la actividad".
+**Lugar:** Online: <https://teams.microsoft.com/meet/39123835238646?p=3nyWKL5QQFRI5iqZI4>
 
 **Convocante:** Daniel Morillo Cuadrado [dvmorillo\@psi.uned.es](mailto:dvmorillo@psi.uned.es){.email} \[DMC\]
 
@@ -22,6 +20,10 @@ gfm: default
 - Alejandro Martínez Mingo ([a.martinez.m\@psi.uned.es](mailto:a.martinez.m@psi.uned.es){.email}) \[AMM\]
 - Pilar Pozo Cabanillas ([ppozo\@psi.uned.es](mailto:ppozo@psi.uned.es){.email}) \[PPC\]
 - Celia Serrano Montilla ([cserrano\@psi.uned.es](mailto:cserrano@psi.uned.es){.email}) \[CSM\]
+
+# Objetivo
+
+Revisar y aprobar (si procede) la planificación de tareas del hito "Lanzamiento de la actividad".
 
 # Preparación previa
 

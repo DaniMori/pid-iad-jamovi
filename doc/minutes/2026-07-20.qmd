@@ -64,3 +64,7 @@ gfm: default
 - **Fecha**: Por determinar.
 
 - **Horario**: Por determinar.
+
+# Adjuntos
+
+- Planificación del hito "Lanzamiento"

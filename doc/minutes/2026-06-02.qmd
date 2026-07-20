@@ -4,6 +4,7 @@ date:   "2026-06-02"
 format:
   docx:
     reference-doc: ../../www/minutes_styles.docx
+gfm: default
 ---
 
 **Asistentes:**

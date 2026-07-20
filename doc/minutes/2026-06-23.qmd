@@ -1,0 +1,179 @@
+---
+title:  "[PID Jamovi]: Revisión del backlog"
+date:   "2026-06-23"
+format:
+  docx:
+    reference-doc: ../../www/minutes_styles.docx
+gfm: default
+---
+
+**Horario:** 15:30 GMT+2 - 16:30 GMT+2
+
+**Lugar:** Online: <https://teams.microsoft.com/meet/354653465339313?p=NKqTFdO60oS1lMtUpj>
+
+**Asistentes:**
+
+- Belén Fernández Castilla ([bfcastilla\@psi.uned.es](mailto:bfcastilla@psi.uned.es){.email}) \[BFC\]
+- José Ángel Martínez Huertas ([jamartinez\@psi.uned.es](mailto:jamartinez@psi.uned.es){.email}) \[JMH\]
+- Alejandro Martínez Mingo ([a.martinez.m\@psi.uned.es](mailto:a.martinez.m@psi.uned.es){.email}) \[AMM\]
+- Daniel Morillo ([dvmorillo\@psi.uned.es](mailto:dvmorillo@psi.uned.es){.email}) \[DMC\]
+- Pilar Pozo Cabanillas ([ppozo\@psi.uned.es](mailto:ppozo@psi.uned.es){.email}) \[PPC\]
+- Celia Serrano Montilla ([cserrano\@psi.uned.es](mailto:cserrano@psi.uned.es){.email}) \[CSM\]
+
+**Transcriptor:** DMC
+
+# Puntos del orden del día
+
+## Revisión y aprobación del acta del 2026-06-02
+
+### Acuerdos
+
+- **Aprobado**: Aprobar acta
+
+## Revisión de hitos del proyecto
+
+### Debate
+
+- La fecha de lanzamiento puede tener cierta flexibilidad (mientras no se anuncie a estudiantes y profesorado tutor)
+
+### Acuerdos
+
+- **Aprobado**: Lanzamiento de la actividad: 2026-10-29
+
+- **Aprobado**: Cierre de la actividad: 2027-01-22
+
+- **Aprobado**: Cierre de calificaciones: 2027-02-23
+
+- **Aprobado**: Posponer anuncio de PEC lo necesario para poder retrasar lanzamiento si hace falta
+
+## Asignación inicial de tareas en la propuesta del PID
+
+### Debate
+
+- Al contar para nota, podemos hacer más de 10 preguntas en la PEC
+
+- Todos los procedimientos a realizar con Jamovi deben tener demostración en vídeos
+
+- La actividad de tipo "encuesta" en Ágora puede responderse en más de una sesión
+
+- Tabla de actividades debería incluir: ítems, análisis estadístico (contenido), especificaciones simulación (variables, propiedades simuladas), materiales auxiliares, y temas
+
+### Tareas
+
+- **DMC**: Hacer planificación de tareas para el equipo \[ASAP\]
+
+- **BFC**: Elaborar lista de contenidos a evaluar \[ND\]
+
+- **ALL**: Revisar lista de contenidos a evaluar \[ND\]
+
+- **JMH**: Elaborar tabla de actividades \[ND\]
+
+- **ALL**: Revisar tabla de actividades \[ND\]
+
+- **DMC**: Implementar código de simulación y corrección \[ND\]
+
+- **AMM**, **CSM**: Revisar código de simulación y corrección \[ND\]
+
+## Priorización y selección de tareas en el backlog
+
+### Debate
+
+- Eliminar la dependencia del CSV con los correos del profesorado facilitaría el uso por terceros
+
+### Acuerdos
+
+- **Aprobado**: Priorizar tareas asignadas a hito "Lanzamiento"
+
+- **Aprobado**: Eliminar dependencia del CSV con los correos del profesorado
+
+- **Aprobado**: Traducir instrucciones y documentación de usuario al castellano
+
+## Asignación de tareas en el backlog
+
+### Debate
+
+- Se requiere cierto dominio de GitHub y {renv}, y cambiar entre versiones de R (se puede actualizar a 4.6.0)
+
+- Cese del mantenimiento de Shinyapps.io en 2026 hace necesario migrar despliegue a Connect Cloud
+
+### Tareas
+
+- **DMC**: Hacer migración a Connect Cloud \[ND\]
+
+- **BFC**: Documentar creación de encuestas en Ágora \[ND\]
+
+- **AMM**, y **CSM**: Desplegar apps en Connect Cloud \[ND\]
+
+## Gestión del PID y comunicación
+
+### Debate
+
+- Tener el repositorio de GitHub público puede dar problemas de seguridad.
+
+### Acuerdos
+
+- **Aprobado**: Usar Teams como canal principal de comunicación, email para comunicados.
+
+- **Aprobado**: Reestructurar el equipo de Teams en canal principal de IAD y un canal por PID.
+
+- **Aprobado**: Centralizar documentación en subcarpeta "Documentación" en carpeta compartida de IAD.
+
+- **Pospuesto**: Decidir visibilidad (pública/privada) del repositorio en GitHub.
+
+- **Rechazado**: Adoptar castellano para comunicaciones en GitHub.
+
+### Tareas
+
+- **DMC**: Reestructurar equipo de Teams \[ASAP\]
+
+- **DMC**: Crear carpeta "Documentación" \[ASAP\]
+
+# Próxima reunión
+
+- **Objetivo**: Por determinar.
+
+- **Fecha**: Por determinar.
+
+- **Horario**: Por determinar.
+
+# **Resumen de tareas:**
+
+## BFC
+
+- Elaborar lista de contenidos a evaluar \[ND\]
+
+- Documentar creación de encuestas en Ágora \[ND\]
+
+## JMH
+
+- Elaborar tabla de actividades \[ND\]
+
+## AMM
+
+- (con **CSM**) Revisar código de simulación y corrección \[ND\]
+
+- (con **CSM**) Desplegar apps en Connect Cloud \[ND\]
+
+## DMC
+
+- Hacer planificación de tareas para el equipo \[ASAP\]
+
+- Implementar código de simulación y corrección \[ND\]
+
+- Hacer migración a Connect Cloud \[ND\]
+
+- Reestructurar equipo de Teams \[ASAP\]
+
+- Crear carpeta "Documentación" \[ASAP\]
+
+## CSM
+
+- (con **AMM**) Revisar código de simulación y corrección \[ND\]
+
+- (con **AMM**) Desplegar apps en Connect Cloud \[ND\]
+
+## ALL
+
+- Revisar lista de contenidos a evaluar \[ND\]
+
+- Revisar tabla de actividades \[ND\]

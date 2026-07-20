@@ -67,4 +67,6 @@ gfm: default
 
 # Adjuntos
 
-- Planificación del hito "Lanzamiento"
+- [Planificación del hito "Lanzamiento"](https://github.com/users/DaniMori/projects/2/views/10)
+
+- ["Snapshot" de la planificación](doc/Planificacion_Lanzamiento-PEC.tsv)

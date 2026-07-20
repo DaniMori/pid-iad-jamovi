@@ -39,7 +39,9 @@ gfm: default
 
 - Semana de pruebas presenciales: Afecta hasta "[Elicitación de requisitos de la simulación](https://github.com/DaniMori/pid-iad-jamovi/issues/7)"
 
-- "[Creación de módulos de actividad en Ágora](https://github.com/DaniMori/pid-iad-jamovi/issues/3)" y "[Document "survey creation" instructions](https://github.com/DaniMori/pid-pec-iad/issues/8)" en paralelo (misma persona)
+- "[Creación de módulos de actividad en Ágora](https://github.com/DaniMori/pid-iad-jamovi/issues/3)" y "[Document "survey creation" instructions](https://github.com/DaniMori/pid-pec-iad/issues/8)" en paralelo (misma persona, idealmente)
+
+- Asignación de tareas parcialmente pendiente
 
 ### Acuerdos
 
@@ -53,7 +55,7 @@ gfm: default
 
 ### Debate
 
-- Simulación intentarla no hacerla muy restrictiva
+- Intentar hacer la simulación "poco restrictiva" (explorar "casos límite")
 
 # Próxima reunión
 

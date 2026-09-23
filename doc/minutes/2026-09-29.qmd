@@ -1,0 +1,131 @@
+---
+title:  "[PID Jamovi]: Revisión progreso Lanzamiento"
+date:   "2026-09-29"
+format:
+  docx:
+    reference-doc: ../../www/minutes_styles.docx
+gfm: default
+---
+
+**Horario:** 13:00 - 13:30 CEST
+
+**Lugar:** Online: <https://teams.microsoft.com/meet/362761002209222?p=MNja9a0oz8mwVCRHYt>
+
+**Asistentes:**
+
+- Belén Fernández Castilla ([bfcastilla\@psi.uned.es](mailto:bfcastilla@psi.uned.es){.email}) \[BFC\]
+- José Ángel Martínez Huertas ([jamartinez\@psi.uned.es](mailto:jamartinez@psi.uned.es){.email}) \[JMH\]
+- Daniel Morillo ([dvmorillo\@psi.uned.es](mailto:dvmorillo@psi.uned.es){.email}) \[DMC\]
+- Pilar Pozo Cabanillas ([ppozo\@psi.uned.es](mailto:ppozo@psi.uned.es){.email}) \[PPC\]
+- Alejandro Martínez Mingo ([a.martinez.m\@psi.uned.es](mailto:a.martinez.m@psi.uned.es){.email}) \[AMM\]
+- Celia Serrano Montilla ([cserrano\@psi.uned.es](mailto:cserrano@psi.uned.es){.email}) \[CSM\]
+
+**Transcriptor:** DMC
+
+# Puntos del orden del día
+
+## Revisión y aprobación del acta del 2026-07-20
+
+### Acuerdos
+
+- **Aprobado**: Aprobar acta.
+
+## Revisión (y aprobación si procede) de tareas realizadas
+
+### Debate
+
+- [Revisión de contenidos a evaluar](https://github.com/DaniMori/pid-iad-jamovi/issues/2)
+
+- [Diseño de los ítems de evaluación](https://github.com/DaniMori/pid-iad-jamovi/issues/1)
+
+- [Creación de módulos de actividad en Ágora](https://github.com/DaniMori/pid-iad-jamovi/issues/3)
+
+- [Elicitación de requisitos de la simulación](https://github.com/DaniMori/pid-iad-jamovi/issues/7)
+
+- [Implementación del código de la simulación](https://github.com/DaniMori/pid-iad-jamovi/issues/8)
+
+- [Revisión y actualización de instrucciones](https://github.com/DaniMori/pid-iad-jamovi/issues/4)
+
+- [Migración a Connect Cloud](https://github.com/DaniMori/pid-pec-iad/issues/19)
+
+### Acuerdos
+
+- **Aprobado**: .
+
+- **Rechazado**: .
+
+### Tareas
+
+- **BFC**, **JMH**: \[ASAP\]
+
+## Revisión de próximas tareas
+
+### Debate
+
+- [Revisión y actualización de materiales auxiliares](https://github.com/DaniMori/pid-iad-jamovi/issues/5)
+
+- [Revisión y actualización del foro de ayuda](https://github.com/DaniMori/pid-iad-jamovi/issues/6)
+
+- [Implementación del código de corrección](https://github.com/DaniMori/pid-iad-jamovi/issues/40)
+
+### Acuerdos
+
+- **Aprobado**: .
+
+- **Rechazado**: .
+
+### Tareas
+
+- **BFC**, **JMH**: \[ASAP\]
+
+# Sugerencias y preguntas
+
+## Requisitos de la simulación
+
+### Debate
+
+- 
+
+### Acuerdos
+
+- **Aprobado**: .
+
+- **Rechazado**: .
+
+### Tareas
+
+- **BFC**, **JMH**: \[ASAP\]
+
+# Próxima reunión
+
+- **Objetivo**: Por determinar.
+
+- **Fecha**: Por determinar.
+
+- **Horario**: Por determinar.
+
+# Adjuntos
+
+- [Planificación del hito "Lanzamiento"](https://github.com/users/DaniMori/projects/2/views/10)
+
+- ["Snapshot" de la planificación](doc/Planificacion_Lanzamiento-PEC.tsv)
+
+# **Resumen de tareas:**
+
+## BFC
+
+- (con **PPC**) \[2026-09-30\]
+
+- (con **JMH**) \[ASAP\]
+
+## DMC
+
+- \[ASAP\]
+
+## JMH
+
+- (con **BFC**) \[ASAP\]
+
+## PPC
+
+- (con **BFC**) \[2026-09-30\]

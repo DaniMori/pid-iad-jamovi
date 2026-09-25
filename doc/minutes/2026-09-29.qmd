@@ -62,6 +62,18 @@ gfm: default
 
 - **BFC**, **JMH**: \[ASAP\]
 
+- **BFC**: \[ASAP\]
+
+- **JMH**: \[ASAP\]
+
+- **DMC**: \[ASAP\]
+
+- **PPC**: \[ASAP\]
+
+- **AMM**: \[ASAP\]
+
+- **CSM**: \[ASAP\]
+
 ## Revisión de próximas tareas
 
 ### Debate

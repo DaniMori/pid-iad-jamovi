@@ -54,7 +54,7 @@ gfm: default
 
 ### Acuerdos
 
-- **Aprobado**: .
+- **Aprobado**: Posponer [Improve instructions READme (Configuration)](https://github.com/DaniMori/pid-pec-iad/issues/34) al fin del proyecto.
 
 - **Rechazado**: .
 

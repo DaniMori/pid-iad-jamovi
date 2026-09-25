@@ -46,6 +46,8 @@ gfm: default
 
 - [Implementación del código de la simulación](https://github.com/DaniMori/pid-iad-jamovi/issues/8)
 
+  - Afecta a la visibilidad del repositorio
+
 - [Revisión y actualización de instrucciones](https://github.com/DaniMori/pid-iad-jamovi/issues/4)
 
   - Orden FAQs e Instrucciones
@@ -55,6 +57,8 @@ gfm: default
 ### Acuerdos
 
 - **Aprobado**: Posponer [Improve instructions READme (Configuration)](https://github.com/DaniMori/pid-pec-iad/issues/34) al fin del proyecto.
+
+- **Aprobado**: Pasar el repositorio de código a "privado".
 
 - **Rechazado**: .
 

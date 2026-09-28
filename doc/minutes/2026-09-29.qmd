@@ -54,6 +54,8 @@ gfm: default
 
 - [Migración a Connect Cloud](https://github.com/DaniMori/pid-pec-iad/issues/19)
 
+  - "Condiciona" el testeo de la app de descarga
+
 ### Acuerdos
 
 - **Aprobado**: Posponer [Improve instructions READme (Configuration)](https://github.com/DaniMori/pid-pec-iad/issues/34) al fin del proyecto.

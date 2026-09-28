@@ -42,6 +42,10 @@ gfm: default
 
 - [Creación de módulos de actividad en Ágora](https://github.com/DaniMori/pid-iad-jamovi/issues/3)
 
+  - Encuesta con campos numéricos
+
+  - Entrega de resultados de Jamovi (requeriría vídeo)
+
 - [Elicitación de requisitos de la simulación](https://github.com/DaniMori/pid-iad-jamovi/issues/7)
 
 - [Implementación del código de la simulación](https://github.com/DaniMori/pid-iad-jamovi/issues/8)
@@ -51,6 +55,8 @@ gfm: default
 - [Revisión y actualización de instrucciones](https://github.com/DaniMori/pid-iad-jamovi/issues/4)
 
   - Orden FAQs e Instrucciones
+
+  - Jamovi online
 
 - [Migración a Connect Cloud](https://github.com/DaniMori/pid-pec-iad/issues/19)
 

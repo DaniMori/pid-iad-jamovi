@@ -108,9 +108,11 @@ gfm: default
 
 - Bloqueada por "Despliegue de la app de descarga de datos"
 
-- Feedback no testeable por faltar código de corrección
+- Feedback y corrección no testeables por faltar código de corrección
 
-- Comprobación de respuestas correctas no testeables por faltar código de corrección
+- Testear respuestas y entregas cambiando a "rol estudiante"
+
+- Enlaces de entrega ([encuesta](https://agora.uned.es/mod/feedback/view.php?id=894777) y [archivo](https://agora.uned.es/mod/assign/view.php?id=894778)) invisibles pero accesibles en "rol estudiante"
 
 - Testear todo el mundo con mismo dataset?:
   Descargar dataset propio, utilizar dataset común, responder con dataset común, comprobar coincidencia de respuestas

@@ -1,0 +1,182 @@
+---
+title:  "[PID Jamovi]: Inicio de pruebas del flujo de respuesta"
+date:   "2026-10-22"
+format:
+  docx:
+    reference-doc: ../../www/minutes_styles.docx
+gfm: default
+---
+
+**Horario:** 13:00 - 13:45 CEST
+
+**Lugar:** Online: <https://teams.microsoft.com/meet/3328810877702000?p=zCY4UD7WqOX2OL7fMc>
+
+**Asistentes:**
+
+- Belén Fernández Castilla ([bfcastilla\@psi.uned.es](mailto:bfcastilla@psi.uned.es){.email}) \[BFC\]
+- José Ángel Martínez Huertas ([jamartinez\@psi.uned.es](mailto:jamartinez@psi.uned.es){.email}) \[JMH\]
+- Daniel Morillo ([dvmorillo\@psi.uned.es](mailto:dvmorillo@psi.uned.es){.email}) \[DMC\]
+- Pilar Pozo Cabanillas ([ppozo\@psi.uned.es](mailto:ppozo@psi.uned.es){.email}) \[PPC\]
+- Alejandro Martínez Mingo ([a.martinez.m\@psi.uned.es](mailto:a.martinez.m@psi.uned.es){.email}) \[AMM\]
+- Celia Serrano Montilla ([cserrano\@psi.uned.es](mailto:cserrano@psi.uned.es){.email}) \[CSM\]
+
+**Transcriptor:** DMC
+
+# Puntos del orden del día
+
+## Revisión y aprobación del acta del 2026-09-29
+
+### Acuerdos
+
+- **Aprobado**: Aprobar acta.
+
+## Revisión (y aprobación si procede) de tareas realizadas
+
+### Debate
+
+## Revisión y aprobación de [Diseño de los ítems de evaluación](https://github.com/DaniMori/pid-iad-jamovi/issues/1)
+
+### Acuerdos
+
+- **Aprobado**: Aprobar cierre de tarea.
+
+## Revisión y aprobación de [Creación de módulos de actividad en Ágora](https://github.com/DaniMori/pid-iad-jamovi/issues/3)
+
+### Debate
+
+- Pendiente incluir cierre de la tarea
+
+### Acuerdos
+
+- **Aprobado**: Aprobar cierre de tarea.
+
+## Revisión y aprobación de [Elicitación de requisitos de la simulación](https://github.com/DaniMori/pid-iad-jamovi/issues/7)
+
+### Acuerdos
+
+- **Aprobado**: Aprobar cierre de tarea.
+
+## Revisión y aprobación de [Implementación del código de la simulación](https://github.com/DaniMori/pid-iad-jamovi/issues/8)
+
+### Acuerdos
+
+- **Aprobado**: Aprobar cierre de tarea.
+
+## Revisión y aprobación de [Revisión y actualización de instrucciones](https://github.com/DaniMori/pid-iad-jamovi/issues/4)
+
+### Acuerdos
+
+- **Aprobado**: Aprobar cierre de tarea.
+
+## Revisión y aprobación de [Migración a Connect Cloud](https://github.com/DaniMori/pid-pec-iad/issues/19)
+
+### Acuerdos
+
+- **Aprobado**: Aprobar cierre de tarea.
+
+## Revisión y aprobación de [Revisión y actualización de materiales auxiliares](https://github.com/DaniMori/pid-iad-jamovi/issues/5)
+
+### Acuerdos
+
+- **Aprobado**: Aprobar cierre de tarea.
+
+## Revisión y aprobación de [Revisión y actualización del foro de ayuda](https://github.com/DaniMori/pid-iad-jamovi/issues/6)
+
+### Debate
+
+- Sin fecha de apertura, se hace visible cuando se activa la pestaña de Jamovi
+
+- Revisión de fecha de cierre y resto de configuración por BFC?
+
+### Acuerdos
+
+- **Aprobado**: Posponer inicio hasta aprobar el cierre de la simulación
+
+## Revisión de [Despliegue de la app de descarga de datos](https://github.com/DaniMori/pid-iad-jamovi/issues/9)
+
+### Debate
+
+- "Testeo del flujo de respuesta de estudiante" bloqueada por esta tarea
+
+### Acuerdos
+
+- **Pospuesto**: Aprobar cierre de tarea.
+
+## Revisión de [Testeo del flujo de respuesta de estudiante](https://github.com/DaniMori/pid-iad-jamovi/issues/11)
+
+### Debate
+
+- Bloqueada por "Despliegue de la app de descarga de datos"
+
+- Feedback no testeable por faltar código de corrección
+
+- Comprobación de respuestas correctas no testeables por faltar código de corrección
+
+- Testear todo el mundo con mismo dataset?:
+  Descargar dataset propio, utilizar dataset común, responder con dataset común, comprobar coincidencia de respuestas
+
+### Acuerdos
+
+- **Pospuesto**:
+
+# Sugerencias y preguntas
+
+## <!-- TODO: Añadir título -->
+
+### Debate
+
+- 
+
+### Acuerdos
+
+- **Aprobado**: .
+
+- **Rechazado**: .
+
+- **Pospuesto**: .
+
+### Tareas
+
+- **BFC**, **JMH**: \[ASAP\]
+
+# Próxima reunión
+
+- **Objetivo**: Aprobar implementación.
+
+- **Fecha**: <!-- TODO: Decidir (antes del 30-10) -->.
+
+- **Horario**: <!-- TODO: Decidir -->.
+
+# Adjuntos y enlaces
+
+- [Acta del 2026-09-29](https://unedo365-my.sharepoint.com/:w:/r/personal/bfcastilla_psi_uned_es/Documents/2.%20Docencia/Comp_IAD/PIDs%20JAMOVI/PID%202026-27/Reuniones/2026-09-29.docx?d=w9877b820b98c4b70a121193408aafbdc&csf=1&web=1&e=QcGm3G)
+
+- [Planificación del hito "Lanzamiento"](https://github.com/users/DaniMori/projects/2/views/10)
+
+- [Listado de ítems](https://unedo365-my.sharepoint.com/:x:/r/personal/bfcastilla_psi_uned_es/Documents/2.%20Docencia/Comp_IAD/PIDs%20JAMOVI/PID%202026-27/Documentaci%C3%B3n/Contenidos_items.xlsx?d=wa92c1a883c6b4841a36f73cb44df1d8f&csf=1&web=1&e=XRKIcC)
+
+- [Especificación de requisitos de la simulación](https://unedo365-my.sharepoint.com/:x:/r/personal/bfcastilla_psi_uned_es/Documents/2.%20Docencia/Comp_IAD/PIDs%20JAMOVI/PID%202026-27/Documentaci%C3%B3n/Requisitos_simulacion.xlsx?d=w8c4ae07e765b4f14a5d58f94e940d55e&csf=1&web=1&e=BrGGmV)
+
+- [Documento de instrucciones de la tarea](https://unedo365-my.sharepoint.com/:w:/r/personal/bfcastilla_psi_uned_es/Documents/2.%20Docencia/Comp_IAD/PIDs%20JAMOVI/PID%202026-27/Documentaci%C3%B3n/Preguntas%20frecuentes%20e%20instrucciones%20IAD%20-%202026_27.docx?d=wdecf1e690b534596808ee20949a4aa77&csf=1&web=1&e=SLOtzP)
+
+- [Módulos en pestaña de "PEC Jamovi" en Ágora](https://agora.uned.es/course/view.php?id=17353&sectionid=199578)
+
+# **Resumen de tareas:**
+
+## BFC
+
+- (con **PPC**) \[2026-09-30\]
+
+- (con **JMH**) \[ASAP\]
+
+## DMC
+
+- \[ASAP\]
+
+## JMH
+
+- (con **BFC**) \[ASAP\]
+
+## PPC
+
+- (con **BFC**) \[2026-09-30\]

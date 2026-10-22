@@ -1,0 +1,68 @@
+---
+title:  "[PID Jamovi]: Revisión progreso Lanzamiento"
+date:   "2026-09-29"
+format:
+  docx:
+    reference-doc: ../../www/minutes_styles.docx
+gfm: default
+---
+
+**Horario:** 13:00 - 13:30 CEST (aprox)
+
+**Lugar:** Online: <https://teams.microsoft.com/meet/362761002209222?p=MNja9a0oz8mwVCRHYt>
+
+**Convocante:** Daniel Morillo Cuadrado [dvmorillo\@psi.uned.es](mailto:dvmorillo@psi.uned.es){.email} \[DMC\]
+
+**Personas convocadas:**
+
+- Belén Fernández Castilla [bfcastilla\@psi.uned.es](mailto:bfcastilla@psi.uned.es){.email} \[BFC\]
+- José Ángel Martínez Huertas [jamartinez\@psi.uned.es](mailto:jamartinez@psi.uned.es){.email} \[JMH\]
+- Alejandro Martínez Mingo ([a.martinez.m\@psi.uned.es](mailto:a.martinez.m@psi.uned.es){.email}) \[AMM\]
+- Pilar Pozo Cabanillas ([ppozo\@psi.uned.es](mailto:ppozo@psi.uned.es){.email}) \[PPC\]
+- Celia Serrano Montilla ([cserrano\@psi.uned.es](mailto:cserrano@psi.uned.es){.email}) \[CSM\]
+
+# Objetivo
+
+Revisar el progreso de tareas del hito "Lanzamiento de la actividad" y revisar planificación.
+
+# Preparación previa
+
+- Revisar [acta del 2026-07-20](https://unedo365-my.sharepoint.com/:w:/r/personal/bfcastilla_psi_uned_es/Documents/2.%20Docencia/Comp_IAD/PIDs%20JAMOVI/PID%202026-27/Reuniones/2026-07-20.docx?d=w3b8748d1bf20464b9d1372bae07941aa&csf=1&web=1&e=VP362Z)
+
+- Revisar estado actual de la [planificación del hito "Lanzamiento"](https://github.com/users/DaniMori/projects/2/views/10)
+
+# Orden del día
+
+1.  Revisión y aprobación del acta del 2026-07-20 (5')
+
+2.  Revisión (y aprobación si procede) de tareas realizadas: (15')
+
+    - [Revisión de contenidos a evaluar](https://github.com/DaniMori/pid-iad-jamovi/issues/2)
+
+    - [Diseño de los ítems de evaluación](https://github.com/DaniMori/pid-iad-jamovi/issues/1)
+
+    - [Creación de módulos de actividad en Ágora](https://github.com/DaniMori/pid-iad-jamovi/issues/3)
+
+    - [Elicitación de requisitos de la simulación](https://github.com/DaniMori/pid-iad-jamovi/issues/7)
+
+    - [Implementación del código de la simulación](https://github.com/DaniMori/pid-iad-jamovi/issues/8)
+
+    - [Revisión y actualización de instrucciones](https://github.com/DaniMori/pid-iad-jamovi/issues/4)
+
+    - [Migración a Connect Cloud](https://github.com/DaniMori/pid-pec-iad/issues/19)
+
+3.  Revisión de próximas tareas: (5')
+
+    - [Revisión y actualización de materiales auxiliares](https://github.com/DaniMori/pid-iad-jamovi/issues/5)
+
+    - [Revisión y actualización del foro de ayuda](https://github.com/DaniMori/pid-iad-jamovi/issues/6)
+
+    - [Implementación del código de corrección](https://github.com/DaniMori/pid-iad-jamovi/issues/40)
+
+4.  Sugerencias y preguntas (5')
+
+# Adjuntos y enlaces
+
+- [Acta del 2026-07-20](https://unedo365-my.sharepoint.com/:w:/r/personal/bfcastilla_psi_uned_es/Documents/2.%20Docencia/Comp_IAD/PIDs%20JAMOVI/PID%202026-27/Reuniones/2026-07-20.docx?d=w3b8748d1bf20464b9d1372bae07941aa&csf=1&web=1&e=VP362Z)
+
+- [Planificación del hito "Lanzamiento"](https://github.com/users/DaniMori/projects/2/views/10)

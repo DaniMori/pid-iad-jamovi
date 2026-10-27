@@ -9,7 +9,7 @@ gfm: default
 
 **Horario:** 10:00 - 13:30 CEST
 
-**Lugar:** Online: \<\>
+**Lugar:** Sala 2.09 / online: <https://teams.microsoft.com/meet/3542547040324780?p=xYPMhEqNrn304ZxZaz>
 
 **Convocante:** Daniel Morillo Cuadrado [dvmorillo\@psi.uned.es](mailto:dvmorillo@psi.uned.es){.email} \[DMC\]
 

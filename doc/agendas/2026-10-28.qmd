@@ -7,7 +7,7 @@ format:
 gfm: default
 ---
 
-**Horario:** 10:00 - 13:30 CEST
+**Horario:** 10:00 - 13:30 CET
 
 **Lugar:** Sala 2.09 / online: <https://teams.microsoft.com/meet/3542547040324780?p=xYPMhEqNrn304ZxZaz>
 

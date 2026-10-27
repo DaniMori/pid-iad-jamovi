@@ -1,0 +1,141 @@
+---
+title:  "[PID Jamovi]: Revisión de pruebas del flujo de respuesta y lanzamiento de PEC"
+date:   "2026-10-28"
+format:
+  docx:
+    reference-doc: ../../www/minutes_styles.docx
+gfm: default
+---
+
+**Horario:** 10:00 - 10:30 CET
+
+**Lugar:** Sala 2.09 / online: <https://teams.microsoft.com/meet/3542547040324780?p=xYPMhEqNrn304ZxZaz>
+
+**Asistentes:**
+
+- Belén Fernández Castilla ([bfcastilla\@psi.uned.es](mailto:bfcastilla@psi.uned.es){.email}) \[BFC\]
+- José Ángel Martínez Huertas ([jamartinez\@psi.uned.es](mailto:jamartinez@psi.uned.es){.email}) \[JMH\]
+- Daniel Morillo ([dvmorillo\@psi.uned.es](mailto:dvmorillo@psi.uned.es){.email}) \[DMC\]
+- Pilar Pozo Cabanillas ([ppozo\@psi.uned.es](mailto:ppozo@psi.uned.es){.email}) \[PPC\]
+- Alejandro Martínez Mingo ([a.martinez.m\@psi.uned.es](mailto:a.martinez.m@psi.uned.es){.email}) \[AMM\]
+- Celia Serrano Montilla ([cserrano\@psi.uned.es](mailto:cserrano@psi.uned.es){.email}) \[CSM\]
+
+**Transcriptor:** DMC
+
+# Puntos del orden del día
+
+## Revisión y aprobación del acta del 2026-10-22
+
+### Acuerdos
+
+- **Aprobado**: Aprobar acta.
+
+## Revisión (y aprobación si procede) de tareas realizadas
+
+- **Aprobado**: Aprobar "Revisión y aprobación de [Revisión y actualización del foro de ayuda](https://github.com/DaniMori/pid-iad-jamovi/issues/6)"
+
+## Revisión de "[Testeo del flujo de respuesta de estudiante](https://github.com/DaniMori/pid-iad-jamovi/issues/11)"
+
+### Debate
+
+- Ítems pendientes de solucionar?
+
+### Acuerdos
+
+- **Aprobado**: .
+
+### Tareas
+
+- **BFC**: \[ASAP\]
+
+## Revisión y aprobación (si procede) de implementación y lanzamiento
+
+### Debate
+
+- Créditos de computación en Connect Cloud pueden limitar las descargas
+
+### Acuerdos
+
+- **Aprobado**: Aprobar implementación de la PEC.
+
+- **Aprobado**: Contratar suscripción a [Connect Cloud basic](https://connect.posit.cloud/plans) en noviembre.
+
+- **Aprobado**: Lanzar PEC el día 2026-11-02.
+
+- **Aprobado**: Atender a los foros en conjunto con atención general de asignatura.
+
+### Tareas
+
+- **BFC**: [Programar publicación de PEC en Ágora](https://github.com/DaniMori/pid-iad-jamovi/issues/13) \[ASAP\]
+
+# Sugerencias y preguntas
+
+## 
+
+### Debate
+
+- 
+
+### Acuerdos
+
+- **Aprobado**: .
+
+### Tareas
+
+- **dmc**: \[ASAP\]
+
+# Próxima reunión
+
+- **Objetivo**: Aprobar lanzamiento de la PEC.
+
+- **Fecha**: 2026-10-28.
+
+- **Horario**: 10:00 - 10:30 CEST.
+
+# Adjuntos y enlaces
+
+- [Acta del 2026-10-22](https://unedo365-my.sharepoint.com/:w:/r/personal/bfcastilla_psi_uned_es/Documents/2.%20Docencia/Comp_IAD/PIDs%20JAMOVI/PID%202026-27/Reuniones/2026-10-22.docx?d=w189e2a9f403742829ae0853b1f703245&csf=1&web=1&e=kYwytT)
+
+- [Planificación del hito "Lanzamiento"](https://github.com/users/DaniMori/projects/2/views/10)
+
+- [Módulos en pestaña de "PEC Jamovi" en Ágora](https://agora.uned.es/course/view.php?id=17353&sectionid=199578)
+
+- [Planes de suscripión a Connect Cloud](https://connect.posit.cloud/plans)
+
+# **Resumen de tareas:**
+
+## BFC
+
+- \[ASAP\]
+
+- (con **ALL**) \[2026-10-26\]
+
+## DMC
+
+- \[ASAP\]
+
+- (con **ALL**) \[2026-10-26\]
+
+## JMH
+
+- \[ASAP\]
+
+- (con **ALL**) \[2026-10-26\]
+
+## AMM
+
+- \[ASAP\]
+
+- (con **ALL**) \[2026-10-26\]
+
+## PPC
+
+- \[ASAP\]
+
+- (con **ALL**) \[2026-10-26\]
+
+## CSM
+
+- \[ASAP\]
+
+- (con **ALL**) \[2026-10-26\]

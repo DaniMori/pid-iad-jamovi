@@ -56,15 +56,21 @@ gfm: default
 
 - **BFC**: Mover foro de ayuda a pestaña "Comunicación" y enlazar en pestaña "PEC Jamovi" \[ASAP\]
 
-## Revisión de [Testeo del flujo de respuesta de estudiante](https://github.com/DaniMori/pid-iad-jamovi/issues/11)
+## Revisión de próximas tareas
 
 ### Debate
+
+- [Despliegue de la app de descarga de datos](https://github.com/DaniMori/pid-iad-jamovi/issues/9) ya completada (y revisada por AMM)
 
 - Feedback y corrección no testeables por faltar código de corrección
 
 - Propuesta: Testear todo el mundo con dataset común para responder la encuesta y verificar coincidencia o discrepancias.
 
 - Testear respuestas y entregas cambiando a "rol estudiante"
+
+### Acuerdos
+
+- **Aprobado**: Aprobar "Revisión de [Despliegue de la app de descarga de datos](https://github.com/DaniMori/pid-iad-jamovi/issues/9)"
 
 ### Tareas
 

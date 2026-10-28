@@ -7,9 +7,9 @@ format:
 gfm: default
 ---
 
-**Horario:** 10:00 - 10:30 CET
+**Horario:** 10:00 - 10:25 CET
 
-**Lugar:** Sala 2.09 / online: <https://teams.microsoft.com/meet/3542547040324780?p=xYPMhEqNrn304ZxZaz>
+**Lugar:** Online: <https://teams.microsoft.com/meet/3542547040324780?p=xYPMhEqNrn304ZxZaz>
 
 **Asistentes:**
 
@@ -36,17 +36,29 @@ gfm: default
 
 ## Revisión de "[Testeo del flujo de respuesta de estudiante](https://github.com/DaniMori/pid-iad-jamovi/issues/11)"
 
-### Debate
-
-- Ítems pendientes de solucionar?
-
 ### Acuerdos
 
-- **Aprobado**: .
+- **Aprobado**: Incluir coletilla "por favor, no añada el símbolo del porcentaje (%) a su respuesta" en ítem 2.
+
+- **Aprobado**: Preguntar por porcentaje (no acumulado) en ítem 2.
+
+- **Aprobado**: Incluir coletilla ""en caso de que Jamovi indique más de una moda, reporta la que aparezca en la tabla, sin asterisco" en ítem 5.
+
+- **Aprobado**: Incluir aclaración de cómo aparece en el GUI de Jamovi en ítems 8 y 9.
+
+- **Aprobado**: Dar como válid sólo el coeficiente de variación en procentaje (x 100) en ítem 10).
+
+- **Pospuesto**: Decidir cómo tratar las respuestas "sin redondear".
+
+- **Aceptado**: Incluir "reordenar categorías" y "recorrido (amplitud) de una variable" en vídeos futuros de Jamovi.
 
 ### Tareas
 
-- **BFC**: \[ASAP\]
+- **JMH**: Actualizar ítems en Ágora \[ASAP\]
+
+- **CSM**: Actualizar ítems en listado en Excel \[ASAP\]
+
+- **DMC**: Registrar contenidos pendientes de vídeos de Jamovi \[ND\]
 
 ## Revisión y aprobación (si procede) de implementación y lanzamiento
 
@@ -54,35 +66,29 @@ gfm: default
 
 - Créditos de computación en Connect Cloud pueden limitar las descargas
 
+- Cabe la posibilidad de trasvase de presupuesto desde fondos del MCCS
+
 ### Acuerdos
 
-- **Aprobado**: Aprobar implementación de la PEC.
+- **Aprobado**: Contratar suscripción a [Connect Cloud basic](https://connect.posit.cloud/plans) de noviembre a enero.
 
-- **Aprobado**: Contratar suscripción a [Connect Cloud basic](https://connect.posit.cloud/plans) en noviembre.
+- **Rechazado**: Lanzar PEC con antelación.
 
 - **Aprobado**: Lanzar PEC el día 2026-11-02.
 
 - **Aprobado**: Atender a los foros en conjunto con atención general de asignatura.
 
-### Tareas
+- **Aprobado**: Indicar en anuncio en Ágora que empiecen a descargar en noviembre.
 
-- **BFC**: [Programar publicación de PEC en Ágora](https://github.com/DaniMori/pid-iad-jamovi/issues/13) \[ASAP\]
-
-# Sugerencias y preguntas
-
-## 
-
-### Debate
-
-- 
-
-### Acuerdos
-
-- **Aprobado**: .
+- **Aprobado**: Aprobar implementación de la PEC.
 
 ### Tareas
 
-- **dmc**: \[ASAP\]
+- **PPC**: [Programar publicación de PEC en Ágora](https://github.com/DaniMori/pid-iad-jamovi/issues/13) \[ASAP\]
+
+- **AMM**: Redactar memoria para licencia de Connect Cloud \[ASAP\]
+
+- **BFC**: Contratar suscripción de Connect Cloud \[ASAP\]
 
 # Próxima reunión
 
@@ -90,7 +96,7 @@ gfm: default
 
 - **Fecha**: 2026-10-28.
 
-- **Horario**: 10:00 - 10:30 CEST.
+- **Horario**: 10:00 - 10:27 CEST.
 
 # Adjuntos y enlaces
 
@@ -102,40 +108,30 @@ gfm: default
 
 - [Planes de suscripión a Connect Cloud](https://connect.posit.cloud/plans)
 
+- ["Usage" en Guía de Uso de Connect Cloud](https://docs.posit.co/connect-cloud/user/usage.html)
+
 # **Resumen de tareas:**
 
 ## BFC
 
-- \[ASAP\]
-
-- (con **ALL**) \[2026-10-26\]
+- Contratar suscripción de Connect Cloud \[ASAP\]
 
 ## DMC
 
-- \[ASAP\]
-
-- (con **ALL**) \[2026-10-26\]
+- Registrar contenidos pendientes de vídeos de Jamovi \[ND\]
 
 ## JMH
 
-- \[ASAP\]
-
-- (con **ALL**) \[2026-10-26\]
+- Actualizar ítems en Ágora \[ASAP\]
 
 ## AMM
 
-- \[ASAP\]
-
-- (con **ALL**) \[2026-10-26\]
+- Redactar memoria para licencia de Connect Cloud \[ASAP\]
 
 ## PPC
 
-- \[ASAP\]
-
-- (con **ALL**) \[2026-10-26\]
+- [Programar publicación de PEC en Ágora](https://github.com/DaniMori/pid-iad-jamovi/issues/13) \[ASAP\]
 
 ## CSM
 
-- \[ASAP\]
-
-- (con **ALL**) \[2026-10-26\]
+- Actualizar ítems en listado en Excel \[ASAP\]
